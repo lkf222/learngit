@@ -2,9 +2,10 @@ c#
 C++
 javascript
 data structure
+windows
 linux
 mysql
 pgsql
 svn
 git
-
+.net core
