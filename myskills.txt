@@ -1,0 +1,10 @@
+c#
+C++
+javascript
+data structure
+linux
+mysql
+pgsql
+svn
+git
+
