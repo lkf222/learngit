@@ -1,0 +1,10 @@
+c#
+c++
+javascript
+windows
+linux
+mysql
+pgsql
+svn
+git
+.net core
